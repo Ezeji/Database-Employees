@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2012\Projects\employees_database\employees_database\bin\Debug\employees_database.exe.config
+c:\users\user\documents\visual studio 2012\Projects\employees_database\employees_database\bin\Debug\employees_database.exe
+c:\users\user\documents\visual studio 2012\Projects\employees_database\employees_database\bin\Debug\employees_database.pdb
+c:\users\user\documents\visual studio 2012\Projects\employees_database\employees_database\obj\Debug\employees_database.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\employees_database\employees_database\obj\Debug\employees_database.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\employees_database\employees_database\obj\Debug\employees_database.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\employees_database\employees_database\obj\Debug\employees_database.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\employees_database\employees_database\obj\Debug\employees_database.exe
+c:\users\user\documents\visual studio 2012\Projects\employees_database\employees_database\obj\Debug\employees_database.pdb
+E:\PC Files\Documents\Visual Studio 2012\Projects\employees_database\employees_database\bin\Debug\employees_database.exe.config
+E:\PC Files\Documents\Visual Studio 2012\Projects\employees_database\employees_database\obj\Debug\employees_database.exe
+E:\PC Files\Documents\Visual Studio 2012\Projects\employees_database\employees_database\obj\Debug\employees_database.pdb
+E:\PC Files\Documents\Visual Studio 2012\Projects\employees_database\employees_database\bin\Debug\employees_database.exe
+E:\PC Files\Documents\Visual Studio 2012\Projects\employees_database\employees_database\bin\Debug\employees_database.pdb
+E:\PC Files\Documents\Visual Studio 2012\Projects\employees_database\employees_database\obj\Debug\employees_database.csprojResolveAssemblyReference.cache
+E:\PC Files\Documents\Visual Studio 2012\Projects\employees_database\employees_database\obj\Debug\employees_database.Form1.resources
+E:\PC Files\Documents\Visual Studio 2012\Projects\employees_database\employees_database\obj\Debug\employees_database.Properties.Resources.resources
+E:\PC Files\Documents\Visual Studio 2012\Projects\employees_database\employees_database\obj\Debug\employees_database.csproj.GenerateResource.Cache
